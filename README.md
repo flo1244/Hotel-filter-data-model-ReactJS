@@ -8,7 +8,7 @@ Rendering a data model from hotel filter app and written callback function to ma
 
 ### Links
 
-- Live Site URL: [CodeSandbox](https://codesandbox.io/s/l2-soft-challenge-light-switch-stateful-component-nxc26?file=/src/App.js)
+- Live Site URL: [CodeSandbox](https://codesandbox.io/s/l6-render-our-data-model-z5jsd)
 
 
 ### Built with
